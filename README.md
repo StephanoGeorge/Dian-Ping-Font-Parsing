@@ -8,7 +8,7 @@ pip install --upgrade git+https://github.com/StephanoGeorge/Dian-Ping-Font-Parsi
 
 # Usage
 
-See `example.py`
+See and run `example.py`
 
 ## Description
 

@@ -1,0 +1,6 @@
+requests
+pytesseract
+lxml
+fontTools
+Pillow
+PyYAML

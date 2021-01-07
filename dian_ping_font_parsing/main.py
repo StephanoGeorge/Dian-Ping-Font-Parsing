@@ -26,7 +26,7 @@ _headers_computer = {
     'Cache-Control': 'no-cache',
 }
 
-_fonts_path = Path.home() / '.config' / 'dian_ping_font_decrypt'
+_fonts_path = Path.home() / '.cache' / 'dian_ping_font_parsing'
 _fonts_path.mkdir(parents=True, exist_ok=True)
 _fonts_path /= Path('fonts.yaml')
 _fonts_path.touch(exist_ok=True)

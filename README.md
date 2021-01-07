@@ -14,4 +14,4 @@ See `example.py`
 
 支持 svgmtsi,woff 字体解析, 未编写 css,svg 字体解析
 
-程序会将字体解析结果保存在 `~/.config/dian_ping_font_parsing/fonts.yaml`, 未编写清理缓存机制
+程序会将字体解析结果保存在 `~/.cache/dian_ping_font_parsing/fonts.yaml`, 未编写清理缓存机制
